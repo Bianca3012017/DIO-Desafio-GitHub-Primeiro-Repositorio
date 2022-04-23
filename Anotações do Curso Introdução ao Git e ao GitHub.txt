@@ -1,0 +1,8 @@
+Tópicos Fundamentais para entender o Funcionamento do Git:
+#SHA1 (Algoritmo de Hash Seguro)=> Criado pela NSA
+
+Algoritmo Hash - algoritmo usado para garantir a integridade de um documento eletrônico, para que possa comprovar que não houve alterações nesse documento desde a época em que este foi transformado.
+
+O SHA1 gera um conjunto de caracteres identificador de 40 dígitos.
+Como usar:
+echo "nome do arquivo" | openssl sha1
